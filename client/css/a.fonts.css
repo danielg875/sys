@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'er-avenir';
+  src        : url('/fonts/AvenirLTStd-Heavy.eot');
+  src        : local('☺'), url('/fonts/AvenirLTStd-Heavy.woff') format('woff'), url('/fonts/AvenirLTStd-Heavy.ttf') format('truetype'), url('/fonts/AvenirLTStd-Heavy.svg') format('svg');
+  font-weight: 800;
+  font-style : normal;
+}
+@font-face {
+  font-family: 'er-avenir';
+  src        : url('/fonts/AvenirLTStd-MediumOblique.eot');
+  src        : local('☺'), url('/fonts/AvenirLTStd-MediumOblique.woff') format('woff'), url('/fonts/AvenirLTStd-MediumOblique.ttf') format('truetype'), url('/fonts/AvenirLTStd-MediumOblique.svg') format('svg');
+  font-weight: 600;
+  font-style : italic;
+}
+@font-face {
+  font-family: 'er-avenir';
+  src        : url('/fonts/AvenirLTStd-Book.eot');
+  src        : local('☺'), url('/fonts/AvenirLTStd-Book.woff') format('woff'), url('/fonts/AvenirLTStd-Book.ttf') format('truetype'), url('/fonts/AvenirLTStd-Book.svg') format('svg');
+  font-weight: 400;
+  font-style : normal;
+}
+@font-face {
+  font-family: 'er-avenir';
+  src        : url('/fonts/AvenirLTStd-Medium.eot');
+  src        : local('☺'), url('/fonts/AvenirLTStd-Medium.woff') format('woff'), url('/fonts/AvenirLTStd-Medium.ttf') format('truetype'), url('/fonts/AvenirLTStd-Medium.svg') format('svg');
+  font-weight: 600;
+  font-style : normal;
+}
+@font-face {
+  font-family: 'er-avenir';
+  src        : url('/fonts/AvenirLTStd-Roman.eot');
+  src        : local('☺'), url('/fonts/AvenirLTStd-Roman.woff') format('woff'), url('/fonts/AvenirLTStd-Roman.ttf') format('truetype'), url('/fonts/AvenirLTStd-Roman.svg') format('svg');
+  font-weight: 500;
+  font-style : normal;
+}
+@font-face {
+  font-family: 'EZY-FontAwesome';
+  src: url('/fonts/FontAwesome.eot');
+  src: local('☺'), url('/fonts/FontAwesome.woff') format('woff'), url('/fonts/FontAwesome.ttf') format('truetype'), url('/fonts/FontAwesome.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+[ng\: cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x- ng-cloak {
+  display: none !important;
+}

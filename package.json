@@ -1,0 +1,22 @@
+{
+  "name": "ezyref",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "body-parser": "1.15.1",
+    "history": "^3.0.0",
+    "mailgun-js": "0.7.11",
+    "meteor-node-stubs": "~0.2.0",
+    "moment": "^2.14.1",
+    "nodemailer": "2.4.2",
+    "paypal-rest-sdk": "^1.6.9",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-komposer": "^1.13.1",
+    "react-mounter": "^1.2.0",
+    "react-router": "^2.6.0",
+    "stripe": "4.7.0"
+  }
+}
